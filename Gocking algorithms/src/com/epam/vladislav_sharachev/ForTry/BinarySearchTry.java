@@ -1,11 +1,12 @@
 package com.epam.vladislav_sharachev.ForTry;
 
 public class BinarySearchTry {
+
     private static Integer binarySearch(int[] list, int item) {
         int low = 0;
         int high = list.length - 1;
         while (low <= high) {
-            int mid = (high + low) / 2;
+            int mid = (low + high) / 2;
             int guess = list[mid];
             if (guess == item) {
                 return mid;
