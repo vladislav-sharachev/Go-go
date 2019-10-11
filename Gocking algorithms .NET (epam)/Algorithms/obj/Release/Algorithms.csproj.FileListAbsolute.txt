@@ -1,0 +1,6 @@
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\bin\Release\Algorithms.exe.config
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\bin\Release\Algorithms.exe
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\bin\Release\Algorithms.pdb
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\obj\Release\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\obj\Release\Algorithms.exe
+C:\Users\Vladislav_Sharachev\Awesome\Go-go\Gocking algorithms .NET (epam)\Algorithms\obj\Release\Algorithms.pdb
